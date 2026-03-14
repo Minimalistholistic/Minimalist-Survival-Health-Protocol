@@ -1,3 +1,5 @@
+https://doi.org/10.5281/zenodo.19023876
+
 # Minimalist-Survival-Health-Protocol
 차세대 항염식탁표준
 
