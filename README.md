@@ -35,3 +35,17 @@ Legal & License Terms:
 
 ------------------------------
 Official Release: Vol. 1-4 to be published sequentially by Minimalistholistic.
+
+
+1. 탄수화물 항목 (소상공인 보호): 영세 소상공인과 동네 맛집의 생존권을 위해 기업, 법인, 프랜차이즈의 무단 도용 및 시스템 도입을 엄격히 금지합니다. (연 매출 3억 이하 소상공인만 출처 명시 후 활용 가능)
+   2. 고기·치즈·생선·갑각류 (기업 개방 예정): 원가 절감, 대량 공급, 식중독 예방 및 식품 안전 시스템 구축을 위해, 해당 항목은 향후 기업 및 대형 사업자에게 순차적으로 허용 범위를 공개할 예정입니다.
+   3. 증거 기록 (Wayback Machine): 본 저장소의 모든 내용은 Wayback Machine에 실시간 박제 중입니다. 무단 도용 후 수정·삭제 시에도 최초 게시 기록을 근거로 엄중 대응합니다.
+   * 기록 확인: https://github.com/Minimalistholistic/Minimalist-Survival-Health-Protocol
+   
+[ENG] Legal Notice
+
+   1. Carbohydrates (Protection for Small Business): Corporate use or platform integration is strictly prohibited to protect the livelihood of small businesses (under 300M KRW annual sales).
+   2. Meat, Cheese, & Seafood (Future Corporate Access): To ensure cost reduction and food safety (preventing food poisoning), these categories will be released to corporations in the future under specific guidelines.
+   3. Evidence: Archived via Wayback Machine to proe originality and creation date.
+
+------------------------------
