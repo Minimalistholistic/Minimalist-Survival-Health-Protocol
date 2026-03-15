@@ -1,5 +1,7 @@
 https://doi.org/10.5281/zenodo.19023876
+
 🌿 Minimalism Survival Health Protocol (MSHP)
+
 [미니멀리즘 서바이벌 헬스 프로토콜]
 DOI: [Insert Zenodo DOI Here]
 Archive: [Insert Wayback Machine Link Here]
