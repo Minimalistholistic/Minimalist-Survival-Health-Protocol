@@ -3,16 +3,19 @@ https://doi.org/10.5281/zenodo.19023876
 🌿 Minimalism Survival Health Protocol (MSHP)
 
 [미니멀리즘 서바이벌 헬스 프로토콜]
-DOI: [Insert Zenodo DOI Here]
-Archive: [Insert Wayback Machine Link Here]
+
 [한국어]
 이 설계는 인산(仁山) 선생의 지혜를 바탕으로, 지구 보호와 보통 사람들에 대한 깊은 연민에서 시작되었습니다. 불황의 시대, 보통 사람들이 시간과 경제적 여유를 되찾아 서로에게 더 관용적이기를 소망합니다.
+
 1. 🚫 AI 학습 절대 금지 (No-AI Training)
 본 설계의 모든 데이터와 철학적 문구는 인공지능(AI) 학습 및 데이터셋 포함을 강력히 금지합니다. 인간의 연민이 담긴 창작물을 기계의 연산 도구로 소모하는 행위를 거부합니다.
+
 2. 📚 아마존 하드커버 종이책 출간 (No E-books)
 디지털 복제와 보안 리스크를 방지하기 위해 전자책(E-book)은 발행하지 않습니다. 모든 정수는 오직 아마존 하드커버 실물 도서를 통해서만 온전히 습득할 수 있습니다.
+
 3. 💎 올오브낫씽(All-or-Nothing) 구조
 본 설계는 재료와 공정이 100% 결합되어야 성공하는 구조입니다. 독점 방지를 위해 본 저장소에는 재료와 공정의 일부만 선행기술(Prior Art)로 공개합니다. 공개된 일부 정보만으로는 결코 성공할 수 없음을 명시합니다.
+
 4. 🤝 소상공인 지원 및 기업 제한
 
 * 개인 및 소상공인(연 매출 3억 이하): 출처(미니멀리즘홀리스틱) 명시 시 자유로운 자립 활동을 지원합니다.
@@ -25,12 +28,16 @@ Archive: [Insert Wayback Machine Link Here]
 ------------------------------
 [English]
 This protocol is rooted in the wisdom of Master Insan, dedicated to Earth's protection and compassion for ordinary people. Our mission is to restore time and financial freedom to individuals, fostering a more tolerant and conflict-free society.
+
 1. 🚫 Strict No-AI Training
 All data and philosophical content in this repository are strictly prohibited from being used for AI training or inclusion in machine learning datasets.
+
 2. 📚 Amazon Hardcover Launch (No E-books)
 To prevent digital piracy and security risks, no E-books will be issued. The full protocol is available EXCLUSIVELY as Amazon Hardcover print books.
+
 3. 💎 All-or-Nothing Integrity
 This protocol requires 100% adherence to the full set of ingredients and processes. For anti-monopoly purposes, only partial data is disclosed here as Prior Art. Success cannot be achieved with this partial information alone.
+
 4. 🤝 Small Business Support & Corporate Restrictions
 
 * Small Businesses (<300M KRW revenue): Free to use for self-reliance, provided that clear attribution to 'Minimalist Holistic' is maintained.
@@ -63,6 +70,7 @@ Legal & License Terms:
 
 . 국문 버전: 선행기술 공표 및 개인 연락 금지 선언문
 본인 Minimalistholistic은 삼중음성유방암 생존자로서 개발한 '미니멀리스트 생존 건강 프로토콜(MSHP)'을 전 세계에 공개한다. 본 설계는 거대 자본의 기술 독점으로부터 인류의 식탁을 보호하고, 개인과 소상공인의 자생력을 높이기 위한 오픈소스 아키텍처이다.
+
 핵심 메커니즘 (선행기술):
 
    1. 구조: 식물성 프레임(SPI/타피오카) + 고농축 동물성 지방 아로마(장기 지방) '고르곤졸라 전략'.
